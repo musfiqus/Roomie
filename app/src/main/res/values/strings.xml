@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Roomie</string>
+    <string name="appbar_shadow_behavior">com.mushfiqussalehin.roomie.utils.ShadowScrollBehavior</string>
+</resources>
